@@ -3,24 +3,24 @@
   <img src="https://i.pinimg.com/originals/8b/0d/9d/8b0d9dc502ec29a3a68cde8a6210f259.gif" width="100%" />
 </p>
 
-<!-- Twitter Profile Image -->
+<!-- Custom Avatar -->
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_images/1773954662619029504/HBwBaEJ0_400x400.jpg" width="120" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/atharvamhaske/atharvamhaske/main/qTa7bKK0_400x400.jpg" width="120" style="border-radius: 50%;" />
 </p>
 
 <!-- Big Intro -->
-<h1 align="center">Hello, Namaste, Namaskar 🙏<br/>I am <strong>Atharva</strong> aka <strong>AtharvaXDevs</strong></h1>
+<h1 align="center">Hello, Namaste, Namaskar<br/>I am <strong>Atharva</strong> aka <strong>AtharvaXDevs</strong></h1>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Backend+%2F+Frontend+Engineer+%7C+Open+for+freelance+and+work;Building+with+great+UI%2FUX+and+backend+architecture;Node.js%2C+Golang%2C+Next.js%2C+Redis%2C+Supabase%2C+Prisma" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Backend+%2F+Frontend+Engineer+%7C+Open+for+freelance+and+work;Crafting+great+UI%2FUX+and+robust+backends;Node.js%2C+Golang%2C+Next.js%2C+tRPC%2C+Redis%2C+Prisma" />
 </p>
 
 ---
 
 **About Me**
 
-I'm a **full-stack engineer** passionate about building **robust backend systems** and crafting **clean, animated frontend experiences**. I design **high-performance APIs**, implement **secure authentication systems**, build **scalable cloud infrastructure**, and deliver **pixel-perfect UI/UX**.
+I'm a **Full-Stack Engineer** focused on creating **robust backend systems** and **clean, intuitive frontend UIs**. I love building scalable APIs, authentication systems, real-time apps, and delightful user experiences with motion and detail.
 
 ---
 
@@ -43,11 +43,13 @@ I'm a **full-stack engineer** passionate about building **robust backend systems
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Drizzle-8B5CF6?style=for-the-badge&logo=drizzle&logoColor=white" />
+  <img src="https://img.shields.io/badge/tRPC-3985FF?style=for-the-badge&logo=trpc&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-1f425f?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 **Frontend Stack:**
@@ -59,6 +61,16 @@ I'm a **full-stack engineer** passionate about building **robust backend systems
   <img src="https://img.shields.io/badge/Framer%20Motion-EF497A?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/BetterAuth-C026D3?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+**Infra & Tools:**
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-5C5CFF?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 **Language Stack:**
@@ -91,4 +103,3 @@ I'm a **full-stack engineer** passionate about building **robust backend systems
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atharvamhaske&style=flat-square&color=brightgreen" alt="GitHub Profile Views" />
 </p>
-
