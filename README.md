@@ -5,7 +5,7 @@
 
 ### About Me
 
-I'm a **Full-Stack Engineer** passionate about building **robust backend systems** and crafting **clean, animated frontend experiences**. I specialize in **scalable APIs**, **authentication**, **real-time apps**, and delivering delightful **UI/UX**.
+I'm a **Full-Stack Engineer** passionate about building **robust backend systems** and crafting **clean, animated frontend experiences**. I specialize in **scalable APIs**, **authentication**, **real-time apps**, and delivering delightful **UI/UX**. Currently working and learning in **Golang** & **Devops**
 
 -   📍 **Location**: Pune, India · Remote
 -   💼 **Open for freelance and remote work**
