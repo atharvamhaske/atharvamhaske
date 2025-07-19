@@ -1,8 +1,5 @@
 <h1 align="center">Hello, Namaste, Namaskar 👋<br/>I am <strong>Atharva</strong> aka <strong>AtharvaXDevs</strong></h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=1DB954&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;Backend+Specialist;Frontend+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
-</p>
 
 ---
 
