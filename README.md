@@ -4,9 +4,6 @@
 <h1 align="center">Hello, Namaste, Namaskar 👋<br/>I am <strong>Atharva</strong> aka <strong>AtharvaXDevs</strong></h1>
 
 <!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Backend+%2F+Frontend+Engineer+%7C+Open+for+freelance+and+work;Crafting+great+UI%2FUX+and+robust+backends;Node.js%2C+Golang%2C+Next.js%2C+tRPC%2C+Redis%2C+Prisma" />
-</p>
 
 ---
 
