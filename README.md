@@ -20,7 +20,7 @@ I'm a **Full-Stack Engineer** passionate about building **robust backend systems
 
 - 🌐 **[Portfolio](https://atharvaxdevs.xyz)**
 - 💼 **[LinkedIn](https://linkedin.com/in/atharvaxdevs)**
-- 🐦 **[Twitter](https://twitter.com/AtharvaXDevs)**
+- 🐦 **[X](https://twitter.com/AtharvaXDevs)**
 
 ---
 
