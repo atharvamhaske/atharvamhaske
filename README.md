@@ -1,30 +1,37 @@
-
-
-<!-- Big Intro -->
 <h1 align="center">Hello, Namaste, Namaskar 👋<br/>I am <strong>Atharva</strong> aka <strong>AtharvaXDevs</strong></h1>
 
-<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=1DB954&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;Backend+Specialist;Frontend+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
+</p>
 
 ---
 
-**About Me**
+### About Me
 
 I'm a **Full-Stack Engineer** passionate about building **robust backend systems** and crafting **clean, animated frontend experiences**. I specialize in **scalable APIs**, **authentication**, **real-time apps**, and delivering delightful **UI/UX**.
 
-- 📍 **Location**: Pune, India · Remote  
-- 💼 **Open for freelance and remote work**
+-   📍 **Location**: Pune, India · Remote
+-   💼 **Open for freelance and remote work**
 
 ---
 
-**Portfolio & Contact**
+### 📬 Let's Connect!
 
-- 🌐 **[Portfolio](https://atharvaxdevs.xyz)**
-- 💼 **[LinkedIn](https://linkedin.com/in/atharvaxdevs)**
-- 🐦 **[X](https://twitter.com/AtharvaXDevs)**
+<p align="center">
+  <a href="https://atharvaxdevs.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-1DB954?style=for-the-badge&logo=rss&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/atharvaxdevs">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/AtharvaXDevs">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-**🧠 Tech Stack**
+### 🧠 Tech Stack
 
 **Backend Stack:**
 
@@ -77,21 +84,19 @@ I'm a **Full-Stack Engineer** passionate about building **robust backend systems
 
 ---
 
-**📊 GitHub Stats**
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvamhaske&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvamhaske&theme=tokyonight" width="450"/>
-</p>
-
----
-
-**📈 Contribution Graph + Green Box**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvamhaske&theme=github-compact" width="85%"/>
+  <img src="https://komarev.com/ghpvc/?username=atharvamhaske&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atharvamhaske&style=flat-square&color=brightgreen" alt="GitHub Profile Views" />
+  <a href="https://github.com/atharvamhaske">
+    <img src="https://github-readme-stats.vercel.app/api?username=atharvamhaske&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvamhaske&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvamhaske&theme=github-compact&hide_border=true" width="90%"/>
 </p>
