@@ -5,32 +5,34 @@ My primary stack is **Next.js / React**, and I am passionate about creating scal
 I’m currently **exploring and contributing to cool open-source projects** while working as a **part-time freelancer**.  
 I’m open to **freelance projects** and **part-time internship opportunities** that focus on building modern, efficient, and creative web tools.  
 
+---
+
 ## 📫 Contact  
 
 I’m just one DM away from building cutting-edge software tools with you.  
-Let’s connect if you’re working on something exciting!
+Let’s connect if you’re working on something exciting!  
 
-- **Website / Portfolio:** [atharvaxdevs.xyz](https://atharvaxdevs.xyz)  
-- **Email:**  
-  - [atharva.works30@gmail.com](mailto:atharva.works30@gmail.com)  
-  - [atharvamhaske76@gmail.com](mailto:atharvamhaske76@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/atharvaxdevs](https://www.linkedin.com/in/atharvaxdevs)  
-- **GitHub:** [github.com/atharvamhaske](https://github.com/atharvamhaske)  
-- **Twitter / X:** [@AtharvaXDevs](https://twitter.com/AtharvaXDevs)  
-- **Peerlist:** [peerlist.io/atharvaxdevs](https://peerlist.io/atharvaxdevs)  
+<p align="left">
+  <a href="https://atharvaxdevs.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-atharvaxdevs.xyz-1f6feb?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="mailto:atharva.works30@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Email-atharva.works30@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/atharvaxdevs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/atharvamhaske" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/AtharvaXDevs" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
+  </a>
+  <a href="https://peerlist.io/atharvaxdevs" target="_blank">
+    <img src="https://img.shields.io/badge/Peerlist-00b16a?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" />
+  </a>
+</p>
 
 ---
-
-## 🚀 Open Source Contributions  
-
-I love building and contributing to open-source projects that improve developer productivity and creativity.  
-Here are a few highlights (see more at [atharvaxdevs.xyz](https://atharvaxdevs.xyz)):
-
-- **Flexprice** – Open pricing tool for flexible tiers and real-time updates  
-- **Requestly** – Contributed to request modification features  
-- **billingSDK** – Simplified billing utilities for modern SaaS projects  
-- **Tambo AI** – NLP & AI-based assistant components  
-- **InsForge** – Lightweight issue tracking for internal tools  
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AtharvaMhaske&color=blue)
