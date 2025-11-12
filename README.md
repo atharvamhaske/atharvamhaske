@@ -5,9 +5,6 @@ My primary stack is **Next.js / React**, and I am passionate about creating scal
 I’m currently **exploring and contributing to cool open-source projects** while working as a **part-time freelancer**.  
 I’m open to **freelance projects** and **part-time internship opportunities** that focus on building modern, efficient, and creative web tools.  
 
----
-# Portfolio — [atharvaxdevs.xyz](https://atharvaxdevs.xyz)
-
 ## 📫 Contact  
 
 I’m just one DM away from building cutting-edge software tools with you.  
@@ -35,10 +32,5 @@ Here are a few highlights (see more at [atharvaxdevs.xyz](https://atharvaxdevs.x
 - **Tambo AI** – NLP & AI-based assistant components  
 - **InsForge** – Lightweight issue tracking for internal tools  
 
----
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AtharvaMhaske&theme=radical&hide_border=true)
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AtharvaMhaske&color=blue)
