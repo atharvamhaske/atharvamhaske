@@ -28,9 +28,6 @@ Let’s connect if you’re working on something exciting!
   <a href="https://twitter.com/AtharvaXDevs" target="_blank">
     <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
   </a>
-  <a href="https://peerlist.io/atharvaxdevs" target="_blank">
-    <img src="https://img.shields.io/badge/Peerlist-00b16a?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" />
-  </a>
 </p>
 
 ---
