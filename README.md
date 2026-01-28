@@ -1,6 +1,6 @@
 ## Atharva Mhaske
 
-Backend developer, active open-source contributor and a nerd who prefers writing Go backends btw.
+Backend developer, active open-source contributor and a nerd who loves writing backends in golang.
 
 <p align="center">
   <a href="https://x.com/atharvaxdevs" target="_blank">twitter</a> •
