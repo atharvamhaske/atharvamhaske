@@ -1,110 +1,55 @@
 ## Atharva Mhaske
 
-A Backend Developer and exploring databases, cloud and devops tools, active open source contributor. I prefer writing Go backends btw
+Backend developer exploring databases, cloud, and DevOps tools. Active open-source contributor. I prefer writing Go backends btw.
 
-- **X**: https://x.com/atharvaxdevs  
-- **LinkedIn**: https://www.linkedin.com/in/atharvaxdevs  
-- **GitHub**: https://github.com/atharvamhaske  
-- **Email**: REPLACE_WITH_YOUR_EMAIL  
-- **Profile views**: ![views](https://komarev.com/ghpvc/?username=atharvamhaske&style=flat-square)
-
----
-
-## Projects:
-
-### concurrency-bugs  
-All my learning from reading the famous Go research paper **“Understanding Real-World Concurrency Bugs in Go”**.  
-This repository contains hands-on notes and runnable examples while studying real production concurrency bugs, why they happen, and how to reason about them correctly in Go.
-
-Repo: https://github.com/atharvamhaske/concurrency-bugs
+**X** · https://x.com/atharvaxdevs &nbsp;&nbsp;|&nbsp;&nbsp;
+**LinkedIn** · https://www.linkedin.com/in/atharvaxdevs &nbsp;&nbsp;|&nbsp;&nbsp;
+**GitHub** · https://github.com/atharvamhaske &nbsp;&nbsp;|&nbsp;&nbsp;
+**Profile views** · ![views](https://komarev.com/ghpvc/?username=atharvamhaske&style=flat-square)
 
 ---
 
-### chash  
-A bare-bones implementation of **consistent hashing in Go** to deeply understand how distributed systems work.  
-Supports efficient key-to-node mapping with minimal redistribution during node addition or removal.
+### currently exploring: 
+- scalable backend systems, databases internals, go internals, cloud and infra, distributed systems.
 
-Repo: https://github.com/atharvamhaske/chash
+### projects:
 
----
+- **concurrency-bugs** — Hands-on learning and runnable examples derived from the Go research paper *“Understanding Real-World Concurrency Bugs in Go”*, documenting real production concurrency failures and fixes.  
+  https://github.com/atharvamhaske/concurrency-bugs
 
-### gossippg  
-A tiny **PostgreSQL LISTEN / NOTIFY** listener written in Go.  
-It listens for DB notifications, decodes JSON payloads, and dispatches them to handlers — useful for CDC-like workflows.
+- **chash** — Bare-bones implementation of consistent hashing in Go to understand distributed systems, node membership, and minimal key redistribution.  
+  https://github.com/atharvamhaske/chash
 
-Repo: https://github.com/atharvamhaske/gossippg
+- **gossippg** — Lightweight PostgreSQL `LISTEN / NOTIFY` listener in Go for handling JSON payloads and event-driven workflows.  
+  https://github.com/atharvamhaske/gossippg
 
----
+- **gracely** — Graceful shutdown patterns for concurrent Go services using contexts, channels, and signal handling.  
+  https://github.com/atharvamhaske/gracely
 
-### gracely  
-Implementation of **graceful shutdown patterns** for concurrent systems in Go.  
-Demonstrates clean shutdown of servers with job queues using contexts, channels, and signal handling.
+- **tcpie** — High-performance TCP server in Go built from scratch using goroutines, worker pools, and concurrency limits.  
+  https://github.com/atharvamhaske/tcpie
 
-Repo: https://github.com/atharvamhaske/gracely
+- **chillMarGo** — Token Bucket based rate limiter in Go for traffic control and backend protection.  
+  https://github.com/atharvamhaske/chillMarGo
 
----
+- **gsync-awaity** — Tiny experimental async/await-style abstraction in Go using goroutines and channels.  
+  https://github.com/atharvamhaske/gsync-awaity
 
-### tcpie  
-A **high-performance TCP server** built from scratch in Go.  
-Handles multiple concurrent connections using goroutines, worker pools, and configurable concurrency limits.
+- **go-tly (WIP)** — Over-engineered URL shortener to explore system design, performance tuning, and distributed backend concepts.  
+  https://github.com/atharvamhaske/go-tly
 
-Repo: https://github.com/atharvamhaske/tcpie
+- **go-ecom** — RESTful e-commerce backend API in Go with PostgreSQL, order workflows, and clean architecture patterns.  
+  https://github.com/atharvamhaske/go-ecom
 
----
+- **autostack** — Code generation tool that produces TanStack (React Query) hooks directly from Express backend APIs.  
+  https://github.com/atharvamhaske/autostack
 
-### chillMarGo  
-A **rate limiter** implemented in Go using the **Token Bucket algorithm**.  
-Built to understand traffic control, throttling, and backend protection patterns.
-
-Repo: https://github.com/atharvamhaske/chillMarGo
-
----
-
-### gsync-awaity  
-A tiny experimental implementation of **async / await behavior in Go**.  
-Built using goroutines and channels to explore async abstractions and concurrency patterns.
-
-Repo: https://github.com/atharvamhaske/gsync-awaity
+- **erdgen-app** — Developer tool to visualize Entity Relationship Diagrams (ERD) from Prisma schemas.  
+  https://github.com/atharvamhaske/erdgen-app
 
 ---
 
-### go-tly (WIP)  
-An **over-engineered URL shortener** built for learning system design.  
-Explores performance, gRPC, backend architecture, and scalability patterns in Go.
+### challenges i tried:
 
-Repo: https://github.com/atharvamhaske/go-tly
-
----
-
-### go-ecom  
-A **RESTful e-commerce backend API** built in Go.  
-Includes product management, order workflows, PostgreSQL persistence, and clean backend architecture.
-
-Repo: https://github.com/atharvamhaske/go-ecom
-
----
-
-### autostack  
-A code-generation tool that **automatically generates TanStack (React Query) hooks** from Express backend APIs.  
-Built to improve frontend-backend integration speed and reduce boilerplate.
-
-Repo: https://github.com/atharvamhaske/autostack
-
----
-
-### erdgen-app  
-A developer tool to **visualize ER diagrams from Prisma schemas**.  
-Helps understand database structure visually during development.
-
-Repo: https://github.com/atharvamhaske/erdgen-app
-
----
-
-## Challenges i tried:
-
-### challenge-go  
-My Go implementation of the **one-to-n student grading challenge**.  
-Focused on clean logic, modular structure, and idiomatic Go code.
-
-Repo: https://github.com/atharvamhaske/challenge-go
-
+- **challenge-go** — Go implementation of the one-to-n student grading challenge, focused on clean logic and idiomatic Go.  
+  https://github.com/atharvamhaske/challenge-go
