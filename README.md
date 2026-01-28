@@ -1,35 +1,32 @@
 ## Atharva Mhaske
 
-Backend developer, active open-source contributor and yeah I prefer writing Go backends btw.
+Backend developer, active open-source contributor and a nerd who prefers writing Go backends btw.
 
-[twitter](https://x.com/atharvaxdevs) ·
-[linkedin](https://www.linkedin.com/in/atharvaxdevs) ·
-[github](https://github.com/atharvamhaske) ·
-
+<p align="center">
+  <a href="https://x.com/atharvaxdevs" target="_blank">twitter</a> •
+  <a href="https://www.linkedin.com/in/atharvaxdevs" target="_blank">linkedin</a> •
+  <a href="https://github.com/atharvamhaske" target="_blank">github</a>
+</p>
 
 ---
 
 ### currently exploring:
-- scalable backend systems
-- database internals
-- go internals
-- cloud and infra
-- distributed systems
+- scalable backend systems, database internals, go internals, cloud and infratools and distributed systems.
 
 
 ### projects:
 
-- [**concurrency-bugs**](https://github.com/atharvamhaske/concurrency-bugs) — Hands-on learning and runnable examples derived from the Go research paper *“Understanding Real-World Concurrency Bugs in Go”*, documenting real production concurrency failures and fixes.
+- [**tcpie**](https://github.com/atharvamhaske/tcpie) — High-performance TCP server in Go built from scratch using goroutines, worker pools, and concurrency limits.
+
+- [**gracely**](https://github.com/atharvamhaske/gracely) — Graceful shutdown patterns for concurrent Go services using contexts, channels, and signal handling.
 
 - [**chash**](https://github.com/atharvamhaske/chash) — Bare-bones implementation of consistent hashing in Go to understand distributed systems, node membership, and minimal key redistribution.
 
 - [**gossippg**](https://github.com/atharvamhaske/gossippg) — Lightweight PostgreSQL `LISTEN / NOTIFY` listener in Go for handling JSON payloads and event-driven workflows.
 
-- [**gracely**](https://github.com/atharvamhaske/gracely) — Graceful shutdown patterns for concurrent Go services using contexts, channels, and signal handling.
-
-- [**tcpie**](https://github.com/atharvamhaske/tcpie) — High-performance TCP server in Go built from scratch using goroutines, worker pools, and concurrency limits.
-
 - [**chillMarGo**](https://github.com/atharvamhaske/chillMarGo) — Token Bucket based rate limiter in Go for traffic control and backend protection.
+
+-  [**concurrency-bugs**](https://github.com/atharvamhaske/concurrency-bugs) — Hands-on learning and runnable examples derived from the Go research paper *“Understanding Real-World Concurrency Bugs in Go”*, documenting real production concurrency failures and fixes.
 
 - [**gsync-awaity**](https://github.com/atharvamhaske/gsync-awaity) — Tiny experimental async/await-style abstraction in Go using goroutines and channels.
 
