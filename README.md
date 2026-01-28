@@ -5,7 +5,7 @@ Backend developer, active open-source contributor and yeah I prefer writing Go b
 [twitter](https://x.com/atharvaxdevs) ·
 [linkedin](https://www.linkedin.com/in/atharvaxdevs) ·
 [github](https://github.com/atharvamhaske) ·
-![views](https://komarev.com/ghpvc/?username=atharvamhaske&style=flat-square)
+
 
 ---
 
@@ -16,7 +16,6 @@ Backend developer, active open-source contributor and yeah I prefer writing Go b
 - cloud and infra
 - distributed systems
 
----
 
 ### projects:
 
@@ -42,7 +41,6 @@ Backend developer, active open-source contributor and yeah I prefer writing Go b
 
 - [**erdgen-app**](https://github.com/atharvamhaske/erdgen-app) — Developer tool to visualize Entity Relationship Diagrams (ERD) from Prisma schemas.
 
----
 
 ### challenges i tried:
 
