@@ -1,6 +1,6 @@
 ## Atharva Mhaske
 
-Backend developer, active open-source contributor and a nerd who loves writing backends in golang.
+google summer of code 2026 at open science labs( sugar-org ) | backend developer | devops | open source contributor
 
 ### currently exploring:
-- scalable backend systems, database internals, go internals, cloud and infratools and distributed systems.
+- scalable backend systems, database internals, open source projects, applied ai, cloud and devops tools.
