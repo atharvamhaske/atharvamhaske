@@ -1,8 +1,17 @@
 {
   "username": "atharvamhaske",
-  "tagline": "Building LLM serving infrastructure and Go observability tooling.",
-  "roles": ["GSoC 2026 @ Open Science Labs", "OpenEverest contributor", "KubeCon India speaker"],
-  "techStack": ["Go", "Kubernetes", "OpenTelemetry", "KServe", "TypeScript"],
+  "tagline": "Backend engineering, infra, applied AI or whatever your teams call it.",
+  "roles": [
+    "GSoC 2026 @ Open Science Labs",
+    "OpenEverest contributor"
+  ],
+  "techStack": [
+    "Go",
+    "Kubernetes",
+    "OpenTelemetry",
+    "KServe",
+    "TypeScript"
+  ],
   "topRepositories": 5,
   "featuredContributions": [
     "openeverest/provider-kserve",
