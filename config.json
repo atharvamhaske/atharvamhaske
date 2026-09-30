@@ -1,0 +1,14 @@
+{
+  "username": "atharvamhaske",
+  "tagline": "Building LLM serving infrastructure and Go observability tooling.",
+  "roles": ["GSoC 2026 @ Open Science Labs", "OpenEverest contributor", "KubeCon India speaker"],
+  "techStack": ["Go", "Kubernetes", "OpenTelemetry", "KServe", "TypeScript"],
+  "topRepositories": 5,
+  "featuredContributions": [
+    "openeverest/provider-kserve",
+    "braintrustdata/braintrust-sdk-go",
+    "open-telemetry/opentelemetry-go-compile-instrumentation",
+    "sugar-org/swarm-external-secrets",
+    "openeverest/provider-kubeai"
+  ]
+}
